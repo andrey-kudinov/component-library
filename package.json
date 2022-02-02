@@ -1,6 +1,7 @@
 {
   "name": "component-library",
   "version": "1.0.0",
+  "author": "Andrey Kudinov",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
